@@ -3,6 +3,7 @@
 // @namespace    questor.utils
 // @version      1.0
 // @description  A lightweight loader for Questor Utils. Always fetches the latest version from GitHub.
+// @icon         https://raw.githubusercontent.com/4vduh/questor-utilities/main/images/questor.png
 // @author       4vduh
 // @match        https://discord.com/*
 // @grant        GM_xmlhttpRequest
